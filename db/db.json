@@ -1,0 +1,19 @@
+{
+  "contacts": [
+    {
+      "id": "das132d1as332",
+      "name": "Mike Brown 356",
+      "email": "mikebrown@gmail.com"
+    },
+    {
+      "id": "9ad919fa-52c9-4c07-ba41-7526bcd87d5c",
+      "name": "Test 1",
+      "email": "test1@gmail.com"
+    },
+    {
+      "id": "02790e5b-91c9-4baf-b713-c0a07d70fdf2",
+      "name": "Test 2",
+      "email": "test2@gmail.com"
+    }
+  ]
+}
